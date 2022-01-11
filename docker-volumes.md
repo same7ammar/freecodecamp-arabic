@@ -234,7 +234,7 @@ $ docker volumes prune
 
 ## **الخلاصة**
 
-Docker is an important part of many people’s environments and tooling. Sometimes, Docker feels a bit like magic by solving issues in a very smart way without telling the user how things are done behind the scenes. Still, Docker is a regular tool that stores its heavy parts in locations that can be opened and changed.
+
 تقنية الدوكر من التقنيات الواعدة في الوقت الحالي والشائعة الاستخدام وكثير من الشركات تتجه الي الاستثمار فيها وتطوير وعمل ادوات تساعد فرق التطوير علي الانتاجية وسرعة تطوير البرمجات بشكل سريع .
 
 من النصائح  المهمة القيام بحذف كل ال unsuded container and volumes لتوفير مساحة كافية للعمل بها .
