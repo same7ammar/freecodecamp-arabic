@@ -239,6 +239,3 @@ $ docker volumes prune
 
 من النصائح  المهمة القيام بحذف كل ال unsuded container and volumes لتوفير مساحة كافية للعمل بها .
 
-  [follow me on Twitter](https://twitter.com/journerist). I work at eBay Kleinanzeigen, one of the biggest classified companies globally. By the way,  [we are hiring](https://jobs.ebayclassifiedsgroup.com/ebay-kleinanzeigen)!
-
-Happy Docker exploring :)
